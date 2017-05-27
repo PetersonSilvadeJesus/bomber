@@ -1,0 +1,4 @@
+﻿  BomberManApp.cpp
+BomberManApp.cpp(238): warning C4305: '+=': truncation from 'double' to 'float'
+  BomberMan.vcxproj -> F:\IFG Anapolis\Programacao C++\Jogos\BomberMan\BomberMan\.\Final\BomberMan.exe
+  BomberMan.vcxproj -> .\Final\BomberMan.pdb (Full PDB)
